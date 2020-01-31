@@ -2,3 +2,5 @@
 Trial Repository
 
 Just for practice.
+
+console.log('hello world')
